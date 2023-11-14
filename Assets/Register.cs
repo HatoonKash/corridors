@@ -13,8 +13,8 @@ public class Register : MonoBehaviour
     public InputField passwordInput;
     public InputField instructornameInput;
     public InputField officeNumInput;
-    public Button registerButton;
-    public Button goToLoginButton;
+    public Button signUpButton;
+    public Button goTosigninButton;
     public Button backButton;
 
     ArrayList credentials;
@@ -22,8 +22,8 @@ public class Register : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        registerButton.onClick.AddListener(writeStuffToFile);
-        goToLoginButton.onClick.AddListener(goToLoginScene);
+        signUpButton.onClick.AddListener(writeStuffToFile);
+        goTosigninButton.onClick.AddListener(goToSignInScene);
         backButton.onClick.AddListener(back);
 
         if (File.Exists(Application.dataPath + "/credentials.txt"))
@@ -37,9 +37,9 @@ public class Register : MonoBehaviour
 
     }
 
-    void goToLoginScene()
+    void goToSignInScene()
     {
-        SceneManager.LoadScene("Login");
+        SceneManager.LoadScene("signin");
     }
 
 
@@ -70,7 +70,7 @@ public class Register : MonoBehaviour
 
     }
     void back(){
-        SceneManager.LoadScene("login");
+        SceneManager.LoadScene("firstPage1");
     }
 
 
