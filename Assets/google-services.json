@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "234047099426",
+    "firebase_url": "https://ar-indoor-navigation-85da5-default-rtdb.firebaseio.com",
+    "project_id": "ar-indoor-navigation-85da5",
+    "storage_bucket": "ar-indoor-navigation-85da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234047099426:android:1bc6f6267f43e35361307b",
+        "android_client_info": {
+          "package_name": "com.indoor.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgExEjph1wcZZXPa_sCYgsypY56z-WM5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

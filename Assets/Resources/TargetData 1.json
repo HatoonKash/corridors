@@ -1,0 +1,88 @@
+{
+	"TargetList": [
+		{
+			"Name": "1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -4.49,
+				"y": 0.00,
+				"z": -1.99
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 49,
+				"y": 0.00,
+				"z": -2.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 161.01,
+				"y": 0.00,
+				"z": 182.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "4",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -140.53,
+				"y": 0.00,
+				"z": 208.99
+			},
+			"Rotation": {
+				"x": 10.0,
+				"y": -90.0,
+				"z": 10.0
+			}
+		},
+		{
+			"Name": "5",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "6",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		}
+	]
+}
